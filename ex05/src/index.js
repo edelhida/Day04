@@ -2,7 +2,6 @@ function main(numOne, numTwo) {
     // Only change code below this line 
     var product = parseFloat(numOne * numTwo);
     
-    
         // Only change code above this line 
     return product;
     
